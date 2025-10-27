@@ -17,10 +17,15 @@ The Retail Business Performance & Profitability Analysis project focuses on anal
 
 ## Tool -------------------- Library	Purpose
 MySQL-------------------	Data cleaning, transformation, and querying
+
 Python	------------------- Data analysis and visualization
+
 Pandas -------------------	Data manipulation and aggregation
+
 NumPy -------------------	Numerical computations
+
 Matplotlib & Seaborn -------------------	Data visualization in Python
+
 Power BI	------------------- Dashboard creation and business reporting
 
 
