@@ -1,4 +1,4 @@
-# Retail-Business-Performance-Profitability-Analysis
+# Sales Profitability Optimization
 
 ## Project Overview
 
